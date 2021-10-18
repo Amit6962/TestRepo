@@ -1,4 +1,4 @@
-package com.semanticsquare.lambdas;
+package com.model.amit;
 
 import java.util.Arrays;
 import java.util.Comparator;
