@@ -1,4 +1,4 @@
-package com.semanticsquare.lambdas;
+package com.model.amit;
 
 public class Bookmark {
 	private long id;
